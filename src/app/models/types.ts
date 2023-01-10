@@ -1,0 +1,1 @@
+export type ISwipeBtnTapTypes = "alert" | "edit" | "delete";
